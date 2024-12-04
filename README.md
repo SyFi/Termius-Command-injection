@@ -8,4 +8,4 @@ using dylib
 DYLD_INSERT_LIBRARIES=exploit_combined.dylib /Applications/Termius.app/Contents/MacOS/Termius
 ```
 
-[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/_5tFXJQIzi4/0.jpg)](https://www.youtube.com/watch?v=Y_5tFXJQIzi4)
+[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/R-Kze6liCwA/maxresdefault.jpg)](https://youtu.be/R-Kze6liCwA)
