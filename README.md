@@ -1,4 +1,4 @@
-# Termius-Command-injection
+# CVE-2024-55503
 Termius App MacOS dylib Command injection
 
 Terminus before 9.9.0 
